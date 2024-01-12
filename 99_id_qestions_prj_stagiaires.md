@@ -5,7 +5,7 @@
    **Réponse attendue:** Nous avons utilisé différentes méthodes telles que l'imputation par la moyenne ou la médiane, en fonction de la nature de nos données, afin de traiter les valeurs manquantes.
 
 3. **Question:** Quels critères avez-vous utilisés pour évaluer les performances de votre modèle de classification?
-   **Réponse attendue:** Nous avons utilisé des métriques telles que la précision, le rappel et la F1-score pour évaluer la performance de notre modèle de classification.
+   **Réponse attendue:** Nous avons utilisé des métriques telles que la précision, le rappel et le F1-score pour évaluer la performance de notre modèle de classification.
 
 4. **Question:** Comment avez-vous abordé le surapprentissage dans votre modèle?
    **Réponse attendue:** Nous avons appliqué des techniques telles que la validation croisée et la régularisation pour éviter le surapprentissage dans notre modèle.
@@ -34,7 +34,7 @@
 12. **Question:** Si vous aviez 1 jour de plus que feriez-vous ? Même question si vous aviez 1 semaine de plus.
     **Réponse attendue:** 
 
-13. **Question:** Quelle leçon tirez-vous de cet exercice ?    
+13. **Question:** Quelles leçons tirez-vous de cet exercice ?    
     **Réponse attendue:** 
 
 R², F1, Recall, Precision ?    
