@@ -1,3 +1,8 @@
+-- Ce jeu de requêtes fonctionne en autonome
+-- Pas besoin d'être sur GCP
+-- Faut être sous VSCODE et avoir installé l'extension SQLite
+-- Quand c'est fait faut juste créer une fichier db.sqlite et l'utiliser comme basse de données
+-- En cas de doute voir cette vidéo : https://www.youtube.com/watch?v=HM8ihP0MzE8
 -- Checking
 SELECT
   1;
