@@ -1,1 +1,4 @@
 # *.zip
+
+
+# Get-ChildItem ./ -recurse | where-object {$_.length -gt 100000000} | Sort-Object length | ft fullname, length -auto

@@ -1,23 +1,49 @@
-# Mes notes de stages Data Essential JEDHA
-* Tout est dans le titre... 
-* Normalement les noms des sous répertoires sont assez explicites
-* Tableau j'ai rien mis car tout est en ligne
+# Notes and projects source code from my "Data Essential" training at JEDHA
+* 2 weeks
+* jan 08 - jan 19
+* JEDHA [web page](https://en.jedha.co/formations/formation-data-analyst) of the **Essential** training
 
-## À propos des slides
-* Sont à la racine : 00_notes_de_stages.pptx
-* On peut pas les voir en ligne et c'est domage
-  * Faut donc les télécharger
-  * Après, il y a un peu de tout et selon que tu es en semaine 01 ou 02 tout ne va pas être utile.
-  * Si il y a des commentaires alors il y a une icone vertes en haut à droite
-  * Si il y a des annimations alors il y a une icone rouge en haut à gauche et bien sûr faut faire SHIFT+F5 pour voir le slide
+## Main topics & projects
+* Data visualisation
+    * Tableau
+* SQL
+    * Introduction to SQL 
+        * Google Cloud, Google BigQuery
+    * Advanced SQL
+* Python programming
+    * Statistics
+    * Seaborn, Pandas...
+* AB Testing
+* Machine Learning
+    * Regression : Linear regression
+    * Classification : Logistic regression, Decision tree, Random Forest
+    * Performances measurements, features importance, monitoring
+* Final project
+    * Project : [Salaries in San Francisco administration](https://github.com/40tude/Data_Essentials_Stage_Oct_2023/tree/main/98-projet). 
 
-## À propos des templates
-* Sont à la racine
-* Sont surtout utiles en semaine 02 
+## About the slides with my personal notes
+* I use these slides when I'm a TA at JEDHA. They can be useful if you attend the course and want to come back to a particular point.
+* The slides are at the root: 00_notes_de_stages.pptx
+* Sorry, you can't see them online with Github 
+  * You have to download them
+  * After that, there's a bit of everything, and depending on whether you're in week 01 or 02, not everything will be useful.
+  * If there are comments, there's a green icon in the top right-hand corner.
+  * If there are animations, there's a red icon at top left, and of course you have to press SHIFT+F5 to see the slide.
 
-## À propos des code snippets
-* Peuvent être utiles en EDA en semaine 2 pour les projets
+## About the templates of code (Jupyter notebook)
+* They are at the root
+* Most useful in week 02 
 
-## Répertoires 99-assets et 98-projet
-* Sont pas utiles
-* Ce sont surtout des ressources perso ainsi que mon projet de l'époque
+## About code snippets
+* See 06-code-snippets\code-snippets.ipynb
+* Can be useful for EDA projects in week 2
+
+## 99-assets 
+* These are mostly personal resources 
+
+# 98-project directories
+* This is the [San Francisco project](https://github.com/40tude/Data_Essentials_Stage_Oct_2023/tree/main/98-projet)
+    * Feel free to read the slides (*pptx) before to look at the code
+    * Many many slides are hidden. Press F5 to run the presentation as it should
+    * We used these slides during the formal presentation at the end of the training
+    * I used these slides and some technical information for the validation of Block 6 (RNCP 35288)

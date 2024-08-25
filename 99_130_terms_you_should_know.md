@@ -1,24 +1,29 @@
-# Liste récupérée sur Medium en Janvier 2023 
+# Liste initialement récupérée sur Medium en Janvier 2023 
+
+
 * https://medium.com/. 
+* J'ai rajouté ensuite des trucs
 * L'idée c'est, peut être, de la parcourir, d'y revenir, de rayer ou de supprimer les termes connus mais surtout de prendre le temps d'étudier les terms pas encore connus.
 
-1. A/B Testing: A statistical method used to compare two versions of a product, webpage, or model to determine which performs better.
 
-2. Accuracy: The measure of how often a classification model correctly predicts outcomes among all instances it evaluates.
 
-3. Adaboost: An ensemble learning algorithm that combines weak classifiers to create a strong classifier.
+01. A/B Testing: A statistical method used to compare two versions of a product, webpage, or model to determine which performs better.
 
-4. Algorithm: A step-by-step set of instructions or rules followed by a computer to solve a problem or perform a task.
+02. Accuracy: The measure of how often a classification model correctly predicts outcomes among all instances it evaluates.
 
-5. Analytics: The process of interpreting and examining data to extract meaningful insights.
+03. Adaboost: An ensemble learning algorithm that combines weak classifiers to create a strong classifier.
 
-6. Anomaly Detection: Identifying unusual patterns or outliers in data.
+04. Algorithm: A step-by-step set of instructions or rules followed by a computer to solve a problem or perform a task.
 
-7. ANOVA (Analysis of Variance): A statistical method used to analyze the differences among group means in a sample.
+05. Analytics: The process of interpreting and examining data to extract meaningful insights.
 
-8. API (Application Programming Interface): A set of rules that allows one software application to interact with another.
+06. Anomaly Detection: Identifying unusual patterns or outliers in data.
 
-9. AUC-ROC (Area Under the ROC Curve): A metric that tells us how well a classification model is doing overall, considering different ways of deciding what counts as a positive or negative prediction.
+07. ANOVA (Analysis of Variance): A statistical method used to analyze the differences among group means in a sample.
+
+08. API (Application Programming Interface): A set of rules that allows one software application to interact with another.
+
+09. AUC-ROC (Area Under the ROC Curve): A metric that tells us how well a classification model is doing overall, considering different ways of deciding what counts as a positive or negative prediction.  
 
 10. Batch Gradient Descent: An optimization algorithm that updates model parameters using the entire training dataset (different from mini-batch gradient descent)
 
@@ -261,3 +266,9 @@
 129. Zero-shot Learning: Training a model to perform a task without explicit examples.
 
 130. Z-Score: A standardized score that represents the number of standard deviations a data point is from the mean.
+
+131. Lasso: L1 regularization. Une technique de régularisation qui ajoute une pénalité à la fonction de coût en ajoutant la somme des valeurs absolues des coefficients du modèle. 
+
+132. Ridge: L2 regularization. Une technique de régularisation qui ajoute une pénalité à la fonction de coût en ajoutant la somme des carrés des coefficients du modèle.
+
+133. ROC curve: Le taux de vrais positifs (Sensibilité) en fonction du taux de faux positifs (1-Spécificité). Un modèle parfait aurait une courbe ROC qui passerait par le coin supérieur gauche du graphique (100% de sensibilité et 100% de spécificité), tandis qu'un modèle aléatoire aurait une courbe ROC qui serait une ligne droite de 45 degrés du coin inférieur gauche au coin supérieur droit.
